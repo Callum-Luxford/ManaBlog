@@ -420,3 +420,8 @@ img {
 }
 
 /* END CSS MAIN */
+/* Git Repo */
+.github__repo:hover {
+    color: blue;
+    cursor: pointer;
+}
